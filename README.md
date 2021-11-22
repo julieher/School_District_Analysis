@@ -54,6 +54,8 @@ The main analysis focused preparing and overview of   the key district metrics f
 
     -   Scores by school spending:
 
+        Thomas High School falls in the $630-$644 category range; the adjusted analysis did not seem to change a significant amount compared to the original analysis (compared with the table without format). 
+
         *Original spending summary*
         ![old_spending](Resources/old_spending.png)
 
