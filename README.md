@@ -2,7 +2,7 @@
 
 ## <u>Overview - School District Analysis:</u> 
 
-    The main analysis focused preparing and overview of   the key district metrics for the school board.  Some of the metrics included, average math and reading scores in each grade. After performing the initial analysis, it was informed that a specific high school showed evidence of academic dishonesty regarding reading and math grades. Therefore, the school board asked for some data to be removed and to re-run the analysis again.
+The main analysis focused preparing and overview of   the key district metrics for the school board.  Some of the metrics included, average math and reading scores in each grade. After performing the initial analysis, it was informed that a specific high school showed evidence of academic dishonesty regarding reading and math grades. Therefore, the school board asked for some data to be removed and to re-run the analysis again.
 
 ## <u>Results</u>: 
 
@@ -45,9 +45,11 @@
         For the ninth-grade scores, Thomas High School, had **83.7** reading average and **83.6** math average in the original analysis. Since the scores replaced with null values, now the tables show as NaN for Thomas High School.
 
         *Adjusted reading scores*
+
         ![new_reading](Resources/new_reading_by_grade.png)
 
         *Adjusted math scores*
+
         ![new_math](Resources/new_math_by_grade.png)
 
     -   Scores by school spending:
